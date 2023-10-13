@@ -1,8 +1,23 @@
 .aboutme {
   float: left;
-  margin: auto;
+  margin-left: 29%;
+  margin-top:60px;
   border: solid 2px black;
   padding:5px;
   background-color:rgb(255, 255, 203);
   width: 15%
+}
+.myname {
+  color:rgb(14, 189, 189);
+  text-align: center;
+  font-style:italic;
+}
+.aligncenter {
+  text-align: center
+}
+.redtext {
+  color:red;
+}
+.greentext {
+  color:green;
 }
