@@ -1,3 +1,13 @@
 .titletext {
   text-align:center;
 }
+body {
+  background-image:url(../imgs/greentriangles.jpg);
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+.images {
+  border: solid 2px rgb(120, 63, 37);
+  height:150px;
+  float:left; 
+}
