@@ -1,0 +1,8 @@
+.aboutme {
+  float: left;
+  margin: auto;
+  border: solid 2px black;
+  padding:5px;
+  background-color:rgb(255, 255, 203);
+  width: 15%
+}
