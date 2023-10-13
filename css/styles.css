@@ -1,51 +1,58 @@
 .aboutme {
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   float: left;
   margin-left: 29%;
-  margin-top:60px;
+  margin-top: 60px;
   border: solid 2px black;
-  padding:5px;
-  background-color:rgb(255, 255, 203);
+  padding: 5px;
+  background-color: rgb(255, 255, 203);
   width: 15%
 }
+
 .myname {
-  color:rgb(14, 189, 189);
+  color: rgb(14, 189, 189);
   text-align: center;
-  font-style:italic;
+  font-style: italic;
 }
+
 .aligncenter {
   text-align: center
 }
+
 .redtext {
-  color:red;
+  color: red;
 }
+
 .greentext {
-  color:green;
+  color: green;
 }
+
 .xpandproj {
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   float: left;
   margin-left: 10%;
-  margin-top:60px;
+  margin-top: 60px;
   border: solid 2px black;
   padding: 5px;
-  background-color:rgb(255, 255, 203);
+  background-color: rgb(255, 255, 203);
   width: 15%
 }
+
 body {
-  background-image:url(../imgs/wfdt.jpg);
-  background-size:cover;
-  background-repeat:no-repeat;
+  background-image: url(../imgs/wfdt.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
+
 .more {
-  font-family:cursive;
-  font-style:italic;
-  width:30%;
+  font-family: cursive;
+  font-style: italic;
+  width: 30%;
   float: left;
-  margin-right:25%;
-  margin-left:33%;
+  margin-right: 25%;
+  margin-left: 33%;
   margin-top: 600px;
   border: solid 2px black;
-  padding:5px;
-  background-color:rgb(255, 255, 203)
+  padding: 5px;
+  background-color: rgb(255, 255, 203)
 }
