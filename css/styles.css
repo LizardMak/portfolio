@@ -37,3 +37,14 @@ body {
   background-size:cover;
   background-repeat:no-repeat;
 }
+.more {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width:30%;
+  float: left;
+  margin-right:25%;
+  margin-left:33%;
+  margin-top: 600px;
+  border: solid 2px black;
+  padding:5px;
+  background-color:rgb(255, 255, 203)
+}
